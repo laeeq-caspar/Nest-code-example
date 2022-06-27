@@ -45,6 +45,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+Open a web browser and:
+ - Check Http endpoin [http://localhost:3000/](http://localhost:3000/)
+ - Check Graphql endpoin [http://localhost:3000/graphql](http://localhost:3000/graphql)
+
 ## Test
 
 ```bash
